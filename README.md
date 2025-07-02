@@ -30,3 +30,5 @@ _Oyun bittiğinde maksimum skorun aşıldığı durum_
 
 
 
+## İletişim
+- LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
