@@ -1,5 +1,5 @@
 # Fruit Ninja Klonu
-Qt ve C++ kullanılarak geliştirilmiş, basit bir Fruit Ninja tarzı masaüstü oyundur. Oyuncunun amacı 30 saniye içerisinde ekrana düşen karpuzları fare ile tıklayarak kesmektir. :contentReference[oaicite:0]{index=0}
+Qt ve C++ kullanılarak geliştirilmiş, basit bir Fruit Ninja tarzı masaüstü oyundur. Oyuncunun amacı 30 saniye içerisinde ekrana düşen karpuzları fare ile tıklayarak kesmektir.
 
 
 ## Özellikler
